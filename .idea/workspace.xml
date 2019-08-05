@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86658007-fe30-4b98-b9ef-c401df032d58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>margin-bottom: 15px;</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OZ2tt3gysGRuRd8ACwqYP5ydaA" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\example (2)\questionanswer\src\main\java\questionanswer" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\core\css" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\css" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\core\css\js" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\example (2)\questionanswer" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\templates" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\templates\Macros" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\core\js" />
+      <recent name="D:\example (2)\questionanswer\src\main\resources\core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="questionanswer.Application" />
+      <module name="questionanswer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="question-answer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="questionanswer.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86658007-fe30-4b98-b9ef-c401df032d58" name="Default Changelist" comment="" />
+      <created>1559128508001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559128508001</updated>
+      <workItem from="1562059395530" duration="765000" />
+      <workItem from="1562081477050" duration="1736000" />
+      <workItem from="1562498863392" duration="843000" />
+      <workItem from="1562499817762" duration="8497000" />
+      <workItem from="1562512942826" duration="691000" />
+      <workItem from="1562513851469" duration="5701000" />
+      <workItem from="1562602439044" duration="261000" />
+      <workItem from="1562602752555" duration="6716000" />
+      <workItem from="1562652085743" duration="4864000" />
+      <workItem from="1562669857676" duration="2344000" />
+      <workItem from="1562757934366" duration="1364000" />
+      <workItem from="1562781190743" duration="5092000" />
+      <workItem from="1562907131726" duration="1599000" />
+      <workItem from="1562927889529" duration="1798000" />
+      <workItem from="1562959458528" duration="7345000" />
+      <workItem from="1563004269743" duration="6249000" />
+      <workItem from="1563039007106" duration="2231000" />
+      <workItem from="1563092622375" duration="332000" />
+      <workItem from="1563277847957" duration="4309000" />
+      <workItem from="1563308681309" duration="258000" />
+      <workItem from="1563395914332" duration="4929000" />
+      <workItem from="1563479340015" duration="9996000" />
+      <workItem from="1563552624676" duration="816000" />
+      <workItem from="1563640677651" duration="14649000" />
+      <workItem from="1563659079664" duration="1192000" />
+      <workItem from="1563660502626" duration="2909000" />
+      <workItem from="1563705815844" duration="13272000" />
+      <workItem from="1563729475866" duration="5934000" />
+      <workItem from="1564000674297" duration="4354000" />
+      <workItem from="1564051213326" duration="3347000" />
+      <workItem from="1564169721936" duration="592000" />
+      <workItem from="1564171028503" duration="6740000" />
+      <workItem from="1564738853320" duration="783000" />
+      <workItem from="1564739726064" duration="1531000" />
+      <workItem from="1564760250644" duration="3162000" />
+      <workItem from="1564772126161" duration="1179000" />
+      <workItem from="1564811476503" duration="18084000" />
+      <workItem from="1564846010450" duration="2116000" />
+      <workItem from="1564852690940" duration="1592000" />
+      <workItem from="1564854444944" duration="2994000" />
+      <workItem from="1564898637823" duration="3556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questionanswer/Controllers/FileUploadController.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/questionanswer$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1561880978090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>question-answer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

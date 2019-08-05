@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "questionanswer.Storage.StorageProperties",
+      "sourceType": "questionanswer.Storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "questionanswer.Storage.StorageProperties",
+      "defaultValue": "D:\/\/example (2)\/\/questionanswer\/\/src\/\/main\/\/java\/\/questionanswer\/\/Storage"
+    }
+  ],
+  "hints": []
+}
