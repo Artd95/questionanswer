@@ -31,6 +31,8 @@ public class User implements UserDetails { // Interface use for authentication. 
     public String country;
     @Column
     public String city;
+    @Column
+    private String filename;
     @ElementCollection(targetClass = Role.class, fetch = FetchType.EAGER)
     @CollectionTable(name = "user_role", joinColumns = @JoinColumn(name = "user_id"))
     @Enumerated(EnumType.STRING)
@@ -56,7 +58,8 @@ public class User implements UserDetails { // Interface use for authentication. 
                 ", address='" + address + '\'' +
                 ", country='" + country + '\'' +
                 ", city='" + city + '\'' +
-                ", roles=" + roles +
+                ", roles=" + roles +'\'' +
+                ", filename=" + filename +
                 '}';
     }
 
@@ -166,4 +169,11 @@ public class User implements UserDetails { // Interface use for authentication. 
         this.city = city;
     }
 
+    public String getFilename() {
+        return filename;
+    }
+
+    public void setFilename(String filename) {
+        this.filename = filename;
+    }
 }
